@@ -9,7 +9,7 @@ I'm passionate game developer\
   - Net Framework, WinForms, WPF, ASP.Net
 ***
 🎮 My first published android game - [Sky tower](https://github.com/AndrStorm/SkyTower/tree/main) \
-🌱 My first acomplished test task - [Targem games test task](https://github.com/AndrStorm/TargemGamesTestTaskUnity) \
+🌱 My first accomplished test task - [Targem games test task](https://github.com/AndrStorm/TargemGamesTestTaskUnity) \
 ✨ Also you can checkout my - [VFXs Demo scene](https://github.com/AndrStorm/UniRxTestProject)
 
 
