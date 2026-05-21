@@ -10,7 +10,8 @@ I'm passionate game developer\
 ***
 🎮 My first published android game - [Sky tower](https://github.com/AndrStorm/SkyTower/tree/main) \
 🌱 My first accomplished test task - [Targem games test task](https://github.com/AndrStorm/TargemGamesTestTaskUnity) \
-✨ Also you can checkout my - [VFXs Demo scene](https://github.com/AndrStorm/UniRxTestProject)
+✨ Also you can checkout my - [VFXs and animations Demo project](https://github.com/AndrStorm/UniRxTestProject) \
+📫 If you like vrchat game in steam - [text chat for vrchat](https://github.com/AndrStorm/TextChatVRchat/tree/main)
 
 
 <!--
